@@ -4,7 +4,7 @@ task list is a simpel web application for managing tasks built with Laravel (php
 ###### A [Laravel](http://laravel.com/) 5.4 with minimal [Bootstrap](http://getbootstrap.com) 3.5.x project.
 | Laravel-Tasks Features  |
 | :------------ |
-|Built on [Laravel](http://laravel.com/) 5.2|
+|Built on [Laravel](http://laravel.com/) 5.4|
 |Uses [MySQL](https://github.com/mysql) Database|
 |Uses [Artisan](http://laravel.com/docs/5.2/artisan) to manage database migration, schema creations, and create/publish page controller templates|
 |Dependencies are managed with [COMPOSER](https://getcomposer.org/)|
